@@ -1,0 +1,12 @@
+C:\MBA\InvestHelper\src\InvestHelper\InvestHelper.Application\bin\Debug\net8.0\InvestHelper.Application.deps.json
+C:\MBA\InvestHelper\src\InvestHelper\InvestHelper.Application\bin\Debug\net8.0\InvestHelper.Application.dll
+C:\MBA\InvestHelper\src\InvestHelper\InvestHelper.Application\bin\Debug\net8.0\InvestHelper.Application.pdb
+C:\MBA\InvestHelper\src\InvestHelper\InvestHelper.Application\obj\Debug\net8.0\InvestHelper.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\MBA\InvestHelper\src\InvestHelper\InvestHelper.Application\obj\Debug\net8.0\InvestHelper.Application.AssemblyInfoInputs.cache
+C:\MBA\InvestHelper\src\InvestHelper\InvestHelper.Application\obj\Debug\net8.0\InvestHelper.Application.AssemblyInfo.cs
+C:\MBA\InvestHelper\src\InvestHelper\InvestHelper.Application\obj\Debug\net8.0\InvestHelper.Application.csproj.CoreCompileInputs.cache
+C:\MBA\InvestHelper\src\InvestHelper\InvestHelper.Application\obj\Debug\net8.0\InvestHelper.Application.sourcelink.json
+C:\MBA\InvestHelper\src\InvestHelper\InvestHelper.Application\obj\Debug\net8.0\InvestHelper.Application.dll
+C:\MBA\InvestHelper\src\InvestHelper\InvestHelper.Application\obj\Debug\net8.0\refint\InvestHelper.Application.dll
+C:\MBA\InvestHelper\src\InvestHelper\InvestHelper.Application\obj\Debug\net8.0\InvestHelper.Application.pdb
+C:\MBA\InvestHelper\src\InvestHelper\InvestHelper.Application\obj\Debug\net8.0\ref\InvestHelper.Application.dll
